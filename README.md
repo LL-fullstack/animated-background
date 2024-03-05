@@ -13,11 +13,13 @@ Step 1
 6. In 'Animated-background' folder, create a html file with name 'index.html'.
 
 Step 2
+
 In 'index.html' file, create <body>, navbar, content, sidebar and <button>. Use
 <img> to link your pictures from 'images' folder.
 Don't forget to link your 'index.css' file correctly here.
 
 Step 3
+
 In 'index.css' file, style hero section, navbar, button, content, side-bar, 
 images, and links.
 Use @keyframes to define the steps of an animation sequence. Each keyframe 
@@ -105,8 +107,14 @@ With 'animation-delay', it creates a visual effect, where each bubble begins
 its animation at different times, rather than all at once. 
 
 Step 4
+
 After adding all your content and styling, review your website in a web browser. 
 Adjust the positions, sizes, and timings of the animations as needed to fit your 
 design vision.
 
 
+References
+
+[@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+[animation-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay)
+[:nth-child()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
