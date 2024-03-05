@@ -119,6 +119,10 @@ After adding all your content and styling, review your website in a web browser.
 Adjust the positions, sizes, and timings of the animations as needed to fit your 
 design vision.
 
+Step 5
+
+Publish your website to platform like GitHub Pages.
+
 
 References
 
