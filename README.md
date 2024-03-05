@@ -29,8 +29,8 @@ expressed as a percentage, with 0% representing the start of the animation and
 
 Syntax:
 
+```
 @keyframes slidein {
-
   from {
     transform: translateX(0%);
   }
@@ -39,11 +39,11 @@ Syntax:
     transform: translateX(100%);
   }
 }
+```
 
 Example from the project:
-
+```
 @keyframes bubble {
-
     0% {
         transform: translateY(0);
         opacity: 0;
@@ -62,7 +62,7 @@ Example from the project:
         opacity: 0;
     }
 }
-
+```
 'animation-delay' allows to control when an animation should begin, after a 
 specified time has elapsed. For example, animation-delay: 2s; means the animation 
 will start 2 seconds after the element is loaded on the page.
@@ -70,15 +70,15 @@ will start 2 seconds after the element is loaded on the page.
 Syntax:
 
 /* Single animation */
-
+```
 animation-delay: 3s;
-
+```
 /* Multiple animations */
-
+```
 animation-delay: 2.1s, 480ms;
-
+```
 Example from the project:
-
+```
 .bubbles img:nth-child(1) {
     animation-delay: 2s;
 }
@@ -106,7 +106,7 @@ Example from the project:
 .bubbles img:nth-child(7) {
     animation-delay: 7s;
 }
-
+```
 '.bubbles img:nth-child()' is pseudo-class selects the 'img' element within the 
 '.bubbles' container that is the 'n-th child' of its parent.
 
@@ -122,6 +122,7 @@ design vision.
 Step 5
 
 Publish your website to platform like GitHub Pages.
+
 
 
 References
