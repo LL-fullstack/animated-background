@@ -116,5 +116,7 @@ design vision.
 References
 
 [@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+
 [animation-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay)
+
 [:nth-child()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
