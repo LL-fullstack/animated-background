@@ -32,17 +32,12 @@ Syntax:
 @keyframes slidein {
 
   from {
-
     transform: translateX(0%);
-
   }
 
   to {
-
     transform: translateX(100%);
-
   }
-
 }
 
 Example from the project:
@@ -50,31 +45,21 @@ Example from the project:
 @keyframes bubble {
 
     0% {
-
         transform: translateY(0);
-
         opacity: 0;
-
     }
 
     50% {
-
         opacity: 1;
-
     }
 
     70% {
-
         opacity: 1;
-
     }
 
     100% {
-
         transform: translateY(-80vh);
-        
         opacity: 0;
-
     }
 }
 
@@ -95,45 +80,31 @@ animation-delay: 2.1s, 480ms;
 Example from the project:
 
 .bubbles img:nth-child(1) {
-
     animation-delay: 2s;
-
 }
 
 .bubbles img:nth-child(2) {
-
     animation-delay: 1s;
-
 }
 
 .bubbles img:nth-child(3) {
-
     animation-delay: 3s;
-
 }
 
 .bubbles img:nth-child(4) {
-
     animation-delay: 4.5s;
-
 }
 
 .bubbles img:nth-child(5) {
-
     animation-delay: 3.5s;
-
 }
 
 .bubbles img:nth-child(6) {
-
     animation-delay: 6s;
-
 }
 
 .bubbles img:nth-child(7) {
-
     animation-delay: 7s;
-
 }
 
 '.bubbles img:nth-child()' is pseudo-class selects the 'img' element within the 
