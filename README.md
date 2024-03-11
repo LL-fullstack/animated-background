@@ -1,4 +1,4 @@
-# Animated-background
+# animated-background
 Tutorial for an animated background
 
 In order to make an animated background for your website, you can follow these
